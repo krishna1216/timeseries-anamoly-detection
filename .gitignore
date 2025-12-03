@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+v/
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# Audio, models, large files
+*.wav
+*.mp3
+*.mp4
+*.pt
+*.h5
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
